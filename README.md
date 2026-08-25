@@ -8,3 +8,5 @@ The bigger product can be made the same as well. Letting researchers have a sand
 Using ranges commonly used for research.
 
 Commonly used equations could go upto every common equation. And later a worflow which let's a researcher normalize any quantum space equation and play around with it using AI.
+
+Researchers get to experience this data like never before.
